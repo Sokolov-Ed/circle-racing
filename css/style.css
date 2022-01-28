@@ -40,6 +40,8 @@ body, .content {
 .statisticsFirstCar_driver, .statisticsSecondCar_driver {
 	font-size: 22px;
 	margin-bottom: 10px;
+	word-break: break-word;
+	word-wrap: break-word;
 }
 .statisticsFirstCar_lapData, .statisticsSecondCar_lapData {
 	font-size: 20px;
