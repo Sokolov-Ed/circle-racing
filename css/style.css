@@ -21,6 +21,7 @@ body, .content {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	text-align: center;
 	border-radius: 20px;
 	width: 175px;
 	margin: 15px;
@@ -37,7 +38,7 @@ body, .content {
 	width: 100px;
 }
 .statisticsFirstCar_driver, .statisticsSecondCar_driver {
-	font-size: 24px;
+	font-size: 22px;
 	margin-bottom: 10px;
 }
 .statisticsFirstCar_lapData, .statisticsSecondCar_lapData {
