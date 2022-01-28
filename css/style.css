@@ -22,8 +22,8 @@ body, .content {
 	align-items: center;
 	justify-content: center;
 	border-radius: 20px;
-	width: 230px;
-	margin: 20px;
+	width: 175px;
+	margin: 15px;
 	flex-direction: column;
 	color: #333;
 	padding: 25px 0;
